@@ -1,0 +1,9 @@
+flask
+flask-sqlalchemy
+flask-marshmallow
+marshmallow-sqlalchemy
+cloudinary
+flask-bcrypt
+python-dotenv
+sqlite3
+jwt
